@@ -5,9 +5,9 @@ export const profile = {
   location: 'Lahore, Pakistan',
   email: 'aqsadar64@gmail.com',
   tagline:
-    'Frontend-focused software engineer building fast, accessible interfaces with React, Next.js and Vue — and wiring them to solid Django & Node backends.',
+    'Frontend-focused software engineer building fast, accessible interfaces with React, Next.js and Vue — backed by hands-on Django REST API work.',
   about: [
-    'I’m a highly adaptive software engineer who specialises in frontend development, with hands-on experience integrating the backend that powers it. I enjoy turning complex business rules into interfaces that feel simple.',
+    'I’m a highly adaptive software engineer who specialises in frontend development, with hands-on Django and Django REST Framework experience on the backend that powers it. I enjoy turning complex business rules into interfaces that feel simple.',
     'Over the past few years I’ve architected learning platforms, multi-tenant web apps, admin dashboards and headless-CMS driven sites. I work closely with product managers, designers, QA and mobile teams, and I lean on AI-assisted tooling like Claude Code and Cursor to ship faster without cutting corners.',
   ],
   links: {
@@ -34,7 +34,7 @@ export const skillGroups = [
   },
   {
     title: 'Backend & Data',
-    items: ['Django', 'Django REST Framework', 'Node.js', 'PostgreSQL', 'MySQL', 'Strapi CMS'],
+    items: ['Django', 'Django REST Framework', 'PostgreSQL', 'MySQL', 'Strapi CMS'],
   },
   {
     title: 'UI Engineering',
